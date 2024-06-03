@@ -10,7 +10,7 @@ CARRERA DE ESPECIALIZACIÓN EN INTELIGENCIA ARTIFICIAL
 
 El objetivo del trabajo es utilizar modelos de lenguaje grande en un problema de Procesamiento de Lenguaje Natural. Se eligió un problema de clasificación binaria, se trata de diferenciar si una noticia es falsa o no utilizando un LLM.
 
-En el repositorio se encuentran los siguientes documentos:
+En el repositorio se encuentran los siguientes archivos:
 <li> <b>Fake.csv</b>: archivo original con noticias falsas. <a href="https://github.com/juanimunar/CEIA_LLM_TF_JIM/blob/main/Dataset/Fake.csv">LINK FALSAS</a> </li>
 
 <li> <b>True.csv</b>: archivo original con noticias reales. <a href="https://github.com/juanimunar/CEIA_LLM_TF_JIM/blob/main/Dataset/True.csv">LINK VERDADERAS</a></li>

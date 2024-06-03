@@ -25,4 +25,4 @@ En el repositorio se encuentran los siguientes documentos:
                                                                                                       
 <li> <b>CEIA_LLM_RESUMEN.pdf</b>: informe de resumen. <a href="https://github.com/juanimunar/CEIA_LLM_TF_JIM/blob/main/CEIA_LLM_RESUMEN.pdf">LINK RESUMEN</a></li>
                                   
-<li> <b>bert_classifier.pth</b>: parámetros del modelo entrenado, no se encuentran en el repositorio sino en el siguiente link de drive. <a href="https://drive.google.com/drive/folders/1FYSN86hrKcWfsky5ueFxoBK1hv6d3s0d?usp=sharing">LINK PARÁMETROS</a></li>
+<li> <b>bert_classifier.pth</b>: parámetros del modelo entrenado, no se encuentran en el repositorio sino en el siguiente drive. <a href="https://drive.google.com/drive/folders/1FYSN86hrKcWfsky5ueFxoBK1hv6d3s0d?usp=sharing">LINK PARÁMETROS</a></li>

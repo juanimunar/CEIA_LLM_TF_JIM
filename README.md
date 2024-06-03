@@ -8,7 +8,7 @@ CARRERA DE ESPECIALIZACIÓN EN INTELIGENCIA ARTIFICIAL
 
 **CONTENIDO.** En el presente repositorio se encuentra el trabajo final de la materia Modelo grande de lenguaje (LLM) e IA generativa, dictada por el Ing. Ezequiel Espósito entre marzo y mayo del año 2024. 
 
-El objetivo del trabajo es utilizar modelos de lenguaje grande en un problema de Procesamiento de Lenguaje Natural. Se eligió un problema de clasificación binaria, se trata de diferenciar si una noticia es falsa o no utilizando un LLP.
+El objetivo del trabajo es utilizar modelos de lenguaje grande en un problema de Procesamiento de Lenguaje Natural. Se eligió un problema de clasificación binaria, se trata de diferenciar si una noticia es falsa o no utilizando un LLM.
 
 En el repositorio se encuentran los siguientes documentos:
 <li> <b>Fake.csv</b>: archivo original con noticias falsas. <a href="https://github.com/juanimunar/CEIA_LLM_TF_JIM/blob/main/Dataset/Fake.csv">LINK FALSAS</a> </li>

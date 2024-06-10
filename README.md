@@ -24,5 +24,5 @@ En el repositorio se encuentran los siguientes archivos:
 <li> <b>LLM_TF_P2_20240603.ipynb</b>: notebook 2 de 2 con el entrenamiento y validación del modelo. <a href="https://github.com/juanimunar/CEIA_LLM_TF_JIM/blob/main/LLM_TF_P2_20240603.ipynb">LINK PARTE 2</a></li>
                                                                                                       
 <li> <b>LLM_TF_RESUMEN_20240603.pdf</b>: informe de resumen. <a href="https://github.com/juanimunar/CEIA_LLM_TF_JIM/blob/main/LLM_TF_RESUMEN_20240603.pdf">LINK RESUMEN</a></li>
-                                  
-<li> <b>bert_classifier_V1.pth</b>: parámetros del modelo entrenado, no se encuentran en el repositorio sino en el siguiente drive. <a href="https://drive.google.com/drive/folders/1FYSN86hrKcWfsky5ueFxoBK1hv6d3s0d?usp=sharing">LINK PARÁMETROS</a></li>
+<br>      
+Los parámetros del modelo entrenado (<b>bert_classifier_V1.pth</b>) no se encuentran en el repositorio sino en el siguiente drive. <a href="https://drive.google.com/drive/folders/1FYSN86hrKcWfsky5ueFxoBK1hv6d3s0d?usp=sharing">LINK DRIVE</a>
